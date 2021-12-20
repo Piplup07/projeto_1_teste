@@ -1,2 +1,4 @@
 opa, tenho algo
 eu mudei o código aqui
+
+fiz a linha que define o valor negativo
